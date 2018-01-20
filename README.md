@@ -6,7 +6,7 @@ Consists of all programming assignments of Machine Learning course by Andrew Ng 
 The code provided is meant for educational purposes only.
 
 ## License
-All Solutions licensed under MIT License. See LICENSE.txt for further details.
+All Solutions licensed under MIT License. See [LICENSE.txt](https://github.com/asterdan712/coursera-machine-learning/blob/master/LICENSE.txt) for further details.
 
 ## Copyright
 Copyright (c) 2019 [Abhijoy Sarkar](https://www.linkedin.com/in/abhijoy-sarkar).
